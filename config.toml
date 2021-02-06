@@ -1,0 +1,78 @@
+baseURL = "https://yuelinn.github.io/"
+languageCode = "en-us"
+title = "The PJ29 Lab"
+theme = "hugo-coder"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+#disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "The PJ29 Lab"
+  info = "Intelligent Robotics vs Global Issues"
+  description = "The PJ29 Lab website"
+  keywords = "blog,developer,personal"
+  #avatarurl = "images/avatar.jpg"
+  #gravatar = "yuelinnchong@gmail.com"
+
+  favicon_32 = "images/favicon.png"
+  favicon_16 = "images/favicon.png"
+
+  #footercontent = "The PJ29 lab "
+  hideFooter = false
+  hideCredits = false
+  hideCopyright = false
+  since = 2021
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+[[menu.main]]
+  name="About"
+  weight=1
+  url="about/"
+
+[[menu.main]]
+  name="Robots"
+  weight=2
+  url="robots/"
+
+[[menu.main]]
+  name="Projects"
+  weight=3
+  url="projects/"
+
+[[menu.main]]
+  name="Articles"
+  weight=4
+  url="articles/"
+
+[[menu.main]]
+  name="Contact"
+  weight=5
+  url="contact/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/yuelinn/"
+
+[[params.social]]
+  name = "About"
+  icon = "fa fa-info-circle fa-2x"
+  weight = 2
+  url = "about/"
+
+[[params.social]]
+  name = "Contact"
+  icon = "fa fa-envelope fa-2x"
+  weight = 2
+  url = "contact/"
+
