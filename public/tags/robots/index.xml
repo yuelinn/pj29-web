@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robots on The PJ29 Lab</title>
+    <link>https://yuelinn.github.io/tags/robots/</link>
+    <description>Recent content in Robots on The PJ29 Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuelinn.github.io/tags/robots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aerial Robotic Platform</title>
+      <link>https://yuelinn.github.io/projects/uav/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuelinn.github.io/projects/uav/</guid>
+      <description>Introduction    Modifying a quadcopter to add autonomous functionalities. Status: In progress
+Base Structure    Off the shelf quadcopter
+On-board sensors    Camera IMU
+On-board processors    raspberry pi zero W</description>
+    </item>
+    
+    <item>
+      <title>Aerial Robotic Platform</title>
+      <link>https://yuelinn.github.io/robots/uav/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://yuelinn.github.io/robots/uav/</guid>
+      <description>Introduction    Modifying a quadcopter to add autonomous functionalities. Status: In progress
+Base Structure    Off the shelf quadcopter
+On-board sensors    Camera IMU
+On-board processors    raspberry pi zero W</description>
+    </item>
+    
+  </channel>
+</rss>
